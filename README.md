@@ -9,6 +9,6 @@ haciendo pruebas
 
 > esto solo es una prueba
 
-** se ve asi**
+**se ve asi**
 
 _y asi?_
