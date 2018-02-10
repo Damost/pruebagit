@@ -1,7 +1,7 @@
 # pruebagit
 haciendo pruebas
-#ahora con un titulo
-##ahora con subtitulo
+# ahora con un titulo
+## ahora con subtitulo
 
 1. y nos fuimos a numerar
 2. seguimos numerando
